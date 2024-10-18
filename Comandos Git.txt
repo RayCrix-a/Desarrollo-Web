@@ -1,0 +1,6 @@
+git clone
+git status
+git add . (para agregar toda la wa)
+git add "nombre del archivo" (para agregar un archivo en especifico)
+git commit -m "Mensaje"
+git push origin main
